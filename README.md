@@ -1,13 +1,5 @@
 # Tooltip_pc
-# TodoList-React-App--Project
 #### Tech stack: React
-- [ Hosted URL](https://todolist--react-app.herokuapp.com/) -On Heroku.
-
-###### I have added following features in this project:---
-- Fetch and show todo items from the api. [API URL](https://jsonplaceholder.typicode.com/todos).
-- Add a todo item, make a POST call to the above url (from where we are fetching) and save the item in react state. (This will be a dummy request, we won’t be able to add items to the server. But the request is valid and will send  some data..
-- Update the item, make a PUT call to the above url. (Again this is a dummy call).
-- Delete an item, make a DELETE call to the above url. (Again this is a dummy call).
 
 # Getting Started with Create React App
 
